@@ -1,0 +1,26 @@
+@charset "UTP-8"
+/* Color Theme Swatches in Hex */
+.dork-youbu-2-1-hex { color: #434FF6; }
+.dork-youbu-2-2-hex { color: #4652FF; }
+.dork-youbu-2-3-hex { color: #3944D4; }
+.dork-youbu-2-4-hex { color: #3039B3; }
+.dork-youbu-2-5-hex { color: #272E91; }
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+background-image: linear-gradient(to right, #272E91, #434FF6, #3944D4  );
+}
+h1{
+    background-image:(to right, #8AFF7E);
+    color:#E51B17;
+    text-shadow: 5px 5px 10px #000000;
+}
+main{
+    background:  #FFFFFF;
+    border-radius: 15px;
+    width: 700px;
+    padding: 30px;
+    margin: auto;
+    box-shadow: 800px;
+}

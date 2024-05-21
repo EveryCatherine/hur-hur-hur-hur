@@ -1,0 +1,42 @@
+.EveryCatherine-1-hex { color: #575859; }
+.EveryCatherine-2-hex { color: #212426; }
+.EveryCatherine-3-hex { color: #878A8C; }
+.EveryCatherine-4-hex { color: #BABDBF; }
+.EveryCatherine-5-hex { color: #F2F2F2; }
+
+.dork-youbu-2-1-hex { color: #434FF6; }
+.dork-youbu-2-2-hex { color: #4652FF; }
+.dork-youbu-2-3-hex { color: #3944D4; }
+.dork-youbu-2-4-hex { color: #3039B3; }
+.dork-youbu-2-5-hex { color: #272E91; }
+
+header{
+    background-image: linear-gradient(to right, #212426, #878A8C, #434FF6);
+    text-align: center;
+    padding: 0px;
+    width: 100%;
+    height: 80%;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:#878A8C ;
+}
+.responsividade-iframe{
+    position:absolute;
+    top: 0%;
+    left: 0%;
+    bottom: 0%;
+    right: 0%;
+    width: 100%;
+    height: 100%;
+}
+.container{
+    position:relative;
+    overflow: hidden;
+    width:100%;
+    padding-bottom: 44.5%;
+}
+img.inicio{
+    width:100%;
+    height:100%;
+}

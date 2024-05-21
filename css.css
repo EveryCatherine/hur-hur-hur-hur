@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(14, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    color:hsl(248, 53%, 58%);}
+p{color: rgb(245, 179, 229);}
+h1{color: rgb(255, 0, 191);
+text-align: center;}
+h2{text-align: right;}
+/* Color Theme Swatches in Hex */
+.dork-youbu-2-1-hex { color: #434FF6; }
+.dork-youbu-2-2-hex { color: #4652FF; }
+.dork-youbu-2-3-hex { color: #3944D4; }
+.dork-youbu-2-4-hex { color: #3039B3; }
+.dork-youbu-2-5-hex { color: #272E91; }
+
+/* Color Theme Swatches in RGBA */
+.dork-youbu-2-1-rgba { color: rgba(67, 79, 246, 1); }
+.dork-youbu-2-2-rgba { color: rgba(70, 82, 255, 1); }
+.dork-youbu-2-3-rgba { color: rgba(57, 68, 212, 1); }
+.dork-youbu-2-4-rgba { color: rgba(48, 57, 179, 1); }
+.dork-youbu-2-5-rgba { color: rgba(39, 46, 145, 1); }
+
+/* Color Theme Swatches in HSLA */
+.dork-youbu-2-1-hsla { color: hsla(235, 90, 61, 1); }
+.dork-youbu-2-2-hsla { color: hsla(236, 100, 63, 1); }
+.dork-youbu-2-3-hsla { color: hsla(235, 64, 52, 1); }
+.dork-youbu-2-4-hsla { color: hsla(235, 57, 44, 1); }
+.dork-youbu-2-5-hsla { color: hsla(236, 57, 36, 1); }

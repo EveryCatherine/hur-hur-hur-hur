@@ -1,0 +1,16 @@
+body{background-color:coral;}
+table{
+    border-style: solid ;
+}
+.cl{
+    border-style: groove; border-color: cornflowerblue;
+    font-size: larger;
+}
+.cl2{
+    border-style: double; border-color: darkgoldenrod;
+    font-style: oblique;
+}
+.cl3{
+    border-style: dotted; border-color: darkred;
+    font-style: unset;
+}
